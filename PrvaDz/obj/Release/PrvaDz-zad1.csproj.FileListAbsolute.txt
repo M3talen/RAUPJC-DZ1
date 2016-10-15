@@ -1,0 +1,5 @@
+c:\users\alen\documents\visual studio 2015\Projects\PrvaDz\PrvaDz\bin\Release\PrvaDz.exe.config
+c:\users\alen\documents\visual studio 2015\Projects\PrvaDz\PrvaDz\bin\Release\PrvaDz.exe
+c:\users\alen\documents\visual studio 2015\Projects\PrvaDz\PrvaDz\bin\Release\PrvaDz.pdb
+c:\users\alen\documents\visual studio 2015\Projects\PrvaDz\PrvaDz\obj\Release\PrvaDz.exe
+c:\users\alen\documents\visual studio 2015\Projects\PrvaDz\PrvaDz\obj\Release\PrvaDz.pdb

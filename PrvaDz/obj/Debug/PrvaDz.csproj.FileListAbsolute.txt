@@ -1,0 +1,6 @@
+c:\users\alen\documents\visual studio 2015\Projects\PrvaDz\PrvaDz\bin\Debug\PrvaDz.exe.config
+c:\users\alen\documents\visual studio 2015\Projects\PrvaDz\PrvaDz\bin\Debug\PrvaDz.exe
+c:\users\alen\documents\visual studio 2015\Projects\PrvaDz\PrvaDz\bin\Debug\PrvaDz.pdb
+c:\users\alen\documents\visual studio 2015\Projects\PrvaDz\PrvaDz\obj\Debug\PrvaDz.csprojResolveAssemblyReference.cache
+c:\users\alen\documents\visual studio 2015\Projects\PrvaDz\PrvaDz\obj\Debug\PrvaDz.exe
+c:\users\alen\documents\visual studio 2015\Projects\PrvaDz\PrvaDz\obj\Debug\PrvaDz.pdb
